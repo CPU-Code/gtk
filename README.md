@@ -17,7 +17,7 @@
 -   [x] [layout_vbox__容器](layout_vbox)
 -   [x] [table_box__位置容器](table_box)
 -   [x] [fixed__固定容器](fixed)
-
+-   [x] [entry__文本容器](entry)
 
 ------------------
 
