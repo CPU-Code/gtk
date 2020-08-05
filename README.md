@@ -19,19 +19,13 @@
 -   [x] [fixed__固定容器](fixed)
 -   [x] [entry__文本容器](entry)
 -   [x] [background__背景图片](background)
-
+-   [x] [button_image__按钮图片](button_image)
 
 ------------------
 
 
 
 -------------------
-
-
-
-
-
-
 
 
 
