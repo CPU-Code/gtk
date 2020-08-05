@@ -13,14 +13,17 @@
 -   [x] [window__显示标题](window)
 -   [x] [button__按钮](button)
 -   [x] [signal__信号](signal)
--   [x] [layout_hbox__容器](layout_hbox)
--   [x] [layout_vbox__容器](layout_vbox)
+-   [x] [layout_hbox__水平容器](layout_hbox)
+-   [x] [layout_vbox__垂直容器](layout_vbox)
 -   [x] [table_box__位置容器](table_box)
 -   [x] [fixed__固定容器](fixed)
 -   [x] [entry__文本容器](entry)
 -   [x] [background__背景图片](background)
 -   [x] [button_image__按钮图片](button_image)
 -   [x] [image__按钮图片](image)
+-   [x] [progress_bar__进度条](progress_bar)
+
+
 ------------------
 
 
