@@ -27,6 +27,7 @@
 -   [x] [timeout__定时器](timeout)
 -   [x] [mouse_event__鼠标](mouse_event)
 -   [x] [key_event__键盘](key_event)
+-   [x] [event_box__双击](event_box)
 
 ------------------
 
