@@ -1,6 +1,6 @@
 CC = gcc  
 MAINC = image.c
-EXEC = image
+EXEC = image_
 
 CFLAGS = `pkg-config --cflags --libs gtk+-2.0`
 
