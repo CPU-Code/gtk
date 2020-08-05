@@ -24,7 +24,7 @@
 -   [x] [progress_bar__进度条](progress_bar)
 -   [x] [scrolled_window__文本](scrolled_window)
 -   [x] [list__列表](list)
-
+-   [x] [timeout__定时器](timeout)
 
 ------------------
 
