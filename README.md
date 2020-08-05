@@ -20,7 +20,7 @@
 -   [x] [entry__文本容器](entry)
 -   [x] [background__背景图片](background)
 -   [x] [button_image__按钮图片](button_image)
-
+-   [x] [image__按钮图片](image)
 ------------------
 
 
