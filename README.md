@@ -22,7 +22,7 @@
 -   [x] [button_image__按钮图片](button_image)
 -   [x] [image__按钮图片](image)
 -   [x] [progress_bar__进度条](progress_bar)
-
+-   [x] [scrolled_window__文本](scrolled_window)
 
 ------------------
 
