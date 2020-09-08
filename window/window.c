@@ -2,7 +2,7 @@
  * @由于个人水平有限, 难免有些错误, 还请指点:  
  * @Author: cpu_code
  * @Date: 2020-08-01 16:31:11
- * @LastEditTime: 2020-08-01 19:29:49
+ * @LastEditTime: 2020-08-06 12:05:20
  * @FilePath: \gtk\window\window.c
  * @Gitee: [https://gitee.com/cpu_code](https://gitee.com/cpu_code)
  * @Github: [https://github.com/CPU-Code](https://github.com/CPU-Code)
@@ -45,7 +45,6 @@ int main(int argc, char *argv[])
 
     //主事件循环
     gtk_main();
-
 
     return 0;
 }
