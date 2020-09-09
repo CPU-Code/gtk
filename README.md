@@ -35,6 +35,7 @@
 - [x] [progress_bar2__进度条](progress_bar2)
 - [x] [scrolled_window2__滚动窗](scrolled_window2)
 - [x] [button_switch__按钮切换图标](button_switch)
+- [x] [read_directory__读取图标的名字](read_directory)
 
 ------------------
 
